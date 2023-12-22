@@ -14,7 +14,7 @@
                 <a class="nav-link" href="#">#</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">#</a>
+                <a class="nav-link" href="/lorem">lorem</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link disabled" aria-disabled="true">#</a>
