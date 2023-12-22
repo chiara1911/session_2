@@ -5,6 +5,7 @@
 @section('content')
 <main>
     <h1>Home page</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum repellat corporis alias molestias, dolor quaerat est recusandae nulla soluta et!</p>
 </main>
 
 @endsection
